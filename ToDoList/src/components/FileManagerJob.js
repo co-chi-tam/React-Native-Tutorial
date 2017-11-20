@@ -1,5 +1,4 @@
-// https://www.npmjs.com/package/react-native-filesystem
-import RNFS from 'react-native-fs';
+import RNFS from 'react-native-fs'; // react-native link react-native-fs
 
 class FileManagerJob {
 
