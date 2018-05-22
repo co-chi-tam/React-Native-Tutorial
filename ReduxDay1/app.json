@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Test app",
+    "description": "your app desc",
+    "version": "1.0.0",
+    "sdkVersion": "27.0.0",
+    "ios": {
+      "bundleIdentifier": "com.dorianco.testexpo"
+    },
+    "android": {
+      "package": "com.dorianco.testexpo"
+    }
+  }
+}
